@@ -8,7 +8,7 @@ This project is a fully analog **Audio Amplifier** system designed and simulated
 
 - Arpit Raj  
 - Shiv Chopra  
-- [Your Name] *(Author of this README)*
+- Abhinav Maurya
 
 **Guided by:** *Abhishek Kumar Sir*
 
